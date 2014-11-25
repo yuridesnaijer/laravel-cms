@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'test',
+			'database'  => 'morgenmiddag-2015',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',
